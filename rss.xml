@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Interior Designer]]></title>
         <description><![CDATA[Interior Designer]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/isabelo-design/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 10 Jan 2016 23:45:27 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 15 Jan 2016 21:31:49 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/isabelo-design/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d49729b8-6813-46bb-a158-ea992ec0998b.JPG">]]></description>
+            <link>https://thegrid.ai/isabelo-design/6a8c8144-d4d6-4ab4-ae5b-35db2c325a86/index.html</link>
+            <guid isPermaLink="false">6a8c8144-d4d6-4ab4-ae5b-35db2c325a86</guid>
+            <pubDate>Fri, 15 Jan 2016 21:25:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ecdde3ee-6713-4a6d-962f-8ad0dd9b7840.png">]]></description>
-            <link>undefined40c03639-1e15-42df-820d-e3699934de49/index.html</link>
+            <link>https://thegrid.ai/isabelo-design/40c03639-1e15-42df-820d-e3699934de49/index.html</link>
             <guid isPermaLink="false">40c03639-1e15-42df-820d-e3699934de49</guid>
             <pubDate>Sun, 10 Jan 2016 23:45:17 GMT</pubDate>
         </item>
